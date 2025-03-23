@@ -1,19 +1,15 @@
 <template>
   <div class="product-card">
     <div class="product-image">
-      <NuxtLink :to="`/produits/${product.id}`">
-        <img :src="product.image" :alt="product.name" />
-      </NuxtLink>
+      <img :src="product.image" :alt="product.name" />
     </div>
     <div class="product-info">
-      <h3 class="product-name">
-        <NuxtLink :to="`/produits/${product.id}`">{{ product.name }}</NuxtLink>
-      </h3>
+      <h3 class="product-name">{{ product.name }}</h3>
       <p class="product-description">{{ product.description }}</p>
       <div class="product-footer">
         <span class="product-price">{{ formatPrice(product.price) }}</span>
         <button class="add-to-cart" @click="addToCart">
-          <IconCart /> Ajouter
+          <Icon name="uil:github" /> Ajouter
         </button>
       </div>
     </div>
@@ -28,6 +24,7 @@ export default {
       required: true,
     },
   },
+  emits: ["add-to-cart"],
   methods: {
     formatPrice(price) {
       return price.toFixed(2).replace(".", ",") + " €";

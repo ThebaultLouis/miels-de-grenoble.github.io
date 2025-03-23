@@ -3,30 +3,13 @@
     <div class="container">
       <div class="header-content">
         <NuxtLink to="/" class="logo">
-          <!-- <img src="~/assets/images/logo.svg" alt="Miel de Grenoble" /> -->
-          <span>Miel de Grenoble</span>
+          <span>Miels de Grenoble</span>
         </NuxtLink>
 
-        <nav class="main-nav">
-          <ul>
-            <li><NuxtLink to="/">Accueil</NuxtLink></li>
-            <li><NuxtLink to="/produits">Nos Miels</NuxtLink></li>
-            <li><NuxtLink to="/a-propos">Notre Histoire</NuxtLink></li>
-            <li><NuxtLink to="/blog">Blog</NuxtLink></li>
-            <li><NuxtLink to="/contact">Contact</NuxtLink></li>
-          </ul>
-        </nav>
-
         <div class="header-actions">
-          <button class="search-btn" @click="toggleSearch">
-            <IconSearch />
-          </button>
           <NuxtLink to="/panier" class="cart-btn">
-            <IconCart />
+            <Icon name="uil:github" />
             <span v-if="cartCount > 0" class="cart-count">{{ cartCount }}</span>
-          </NuxtLink>
-          <NuxtLink to="/mon-compte" class="account-btn">
-            <IconUser />
           </NuxtLink>
         </div>
       </div>
@@ -40,11 +23,6 @@ export default {
     return {
       cartCount: 3, // À remplacer par la vraie valeur du panier
     };
-  },
-  methods: {
-    toggleSearch() {
-      // À implémenter: afficher/masquer la barre de recherche
-    },
   },
 };
 </script>
@@ -62,7 +40,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 0;
+  padding: 15px 10px;
 }
 
 .logo {
