@@ -137,7 +137,7 @@ export default {
           id: 1,
           name: "Miel de Montagne",
           price: 12.9,
-          image: "/images/miel-montagne.jpg",
+          // image: "/images/miel-montagne.jpg",
           description:
             "Un miel délicat aux notes florales des alpages de Chartreuse.",
         },
@@ -145,14 +145,14 @@ export default {
           id: 2,
           name: "Miel de Châtaignier",
           price: 14.5,
-          image: "/images/miel-chataignier.jpg",
+          // image: "/images/miel-chataignier.jpg",
           description: "Un miel corsé aux arômes boisés et légèrement amers.",
         },
         {
           id: 3,
           name: "Miel d'Acacia",
           price: 15.9,
-          image: "/images/miel-acacia.jpg",
+          // image: "/images/miel-acacia.jpg",
           description:
             "Un miel doux et très clair qui reste longtemps liquide.",
         },
@@ -160,7 +160,7 @@ export default {
           id: 4,
           name: "Miel de Lavande",
           price: 13.9,
-          image: "/images/miel-lavande.jpg",
+          // image: "/images/miel-lavande.jpg",
           description: "Un miel parfumé aux douces notes florales de lavande.",
         },
       ],
@@ -198,8 +198,8 @@ export default {
 
 <style scoped>
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("~/assets/images/hero-apiculture.jpg");
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("~/assets/images/hero-apiculture.jpg"); */
   background-size: cover;
   background-position: center;
   color: white;
