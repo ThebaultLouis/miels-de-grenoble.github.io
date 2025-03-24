@@ -1,0 +1,13 @@
+name: "Miel de Châtaignier"
+image: "/products/chataignier/preview.jpg"
+description: "Notre miel de Châtaignier, aux notes robustes et légèrement amères, révèle toute la richesse des forêts. Un miel puissant et caractéristique, apprécié des palais exigeants."
+sizes:
+  - quantity: 250
+    price: 7.50
+    description: "Pot de découverte - Un aperçu du caractère du Châtaignier"
+  - quantity: 500
+    price: 11.50
+    description: "Pot familial - Pour apprécier pleinement la richesse du Châtaignier"
+  - quantity: 1000
+    price: 19.50
+    description: "Grand format - Le choix des amateurs de miel intense"

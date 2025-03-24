@@ -1,0 +1,13 @@
+name: "Miel de Tilleul"
+image: "/products/tilleul/preview.jpg"
+description: "Notre miel de Tilleul, aux notes florales délicates, apporte une touche de sérénité et de douceur. Récolté dans nos forêts, il est reconnu pour ses propriétés apaisantes et son goût subtil."
+sizes:
+  - quantity: 250
+    price: null
+    description: "Pot de découverte actuellement indisponible"
+  - quantity: 500
+    price: 9.50
+    description: "Pot familial - Découvrez la délicatesse du Tilleul"
+  - quantity: 1000
+    price: 16.00
+    description: "Grand format - Pour les amateurs de miel de Tilleul"

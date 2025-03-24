@@ -1,0 +1,13 @@
+name: "Miel de Sapin"
+image: "/products/sapin/preview.jpg"
+description: "Notre miel de Sapin, aux notes résineuses et profondes, évoque les forêts ancestrales. Un miel unique et puissant, qui capture l'essence des massifs forestiers."
+sizes:
+  - quantity: 250
+    price: 8.50
+    description: "Pot de découverte - Un aperçu des forêts de sapins"
+  - quantity: 500
+    price: 13.50
+    description: "Pot familial - Pour les amateurs de saveurs intenses"
+  - quantity: 1000
+    price: 22.50
+    description: "Grand format - Le choix des connaisseurs"

@@ -1,0 +1,13 @@
+name: "Miel de Lavande"
+image: "/products/lavande/preview.jpg"
+description: "Notre miel de Lavande, aux notes délicates et parfumées, transporte les sens dans les champs provençaux. Un miel délicat et élégant, symbole de la Provence."
+sizes:
+  - quantity: 250
+    price: 7.50
+    description: "Pot de découverte - Un aperçu des senteurs de Provence"
+  - quantity: 500
+    price: 11.50
+    description: "Pot familial - Pour apprécier pleinement la lavande"
+  - quantity: 1000
+    price: 19.50
+    description: "Grand format - Le choix des épicuriens"

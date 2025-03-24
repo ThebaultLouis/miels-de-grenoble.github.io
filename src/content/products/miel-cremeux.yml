@@ -1,0 +1,14 @@
+# content/products/miel-cremeux.yml
+name: "Miel Crémeux"
+image: "/products/cremeux/preview.jpg"
+description: "Notre miel crémeux, à la texture onctueuse et délicate, est un trésor de douceur. Soigneusement récolté et travaillé, il offre une expérience gustative unique et authentique."
+sizes:
+  - quantity: 250
+    price: 6.00
+    description: "Pot de découverte - Format idéal pour apprécier la douceur du miel crémeux"
+  - quantity: 500
+    price: 9.00
+    description: "Pot familial - Pour profiter pleinement de notre miel crémeux"
+  - quantity: 1000
+    price: 15.00
+    description: "Grand format - Le choix des vrais amateurs de miel crémeux"

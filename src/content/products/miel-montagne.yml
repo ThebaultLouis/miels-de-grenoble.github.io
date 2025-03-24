@@ -1,0 +1,13 @@
+name: "Miel de Montagne"
+image: "/products/montagne/preview.jpg"
+description: "Notre miel de Montagne, aux notes fraîches et complexes, raconte l'histoire des sommets et des pâturages alpins. Un miel riche et authentique, symbole de nos terroirs."
+sizes:
+  - quantity: 250
+    price: null
+    description: "Pot de découverte actuellement indisponible"
+  - quantity: 500
+    price: 9.50
+    description: "Pot familial - Découvrez les saveurs de la montagne"
+  - quantity: 1000
+    price: 16.00
+    description: "Grand format - Pour les amateurs de miel authentique"
