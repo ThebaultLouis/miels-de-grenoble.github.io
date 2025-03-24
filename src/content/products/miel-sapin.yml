@@ -1,5 +1,5 @@
 name: "Miel de Sapin"
-image: "/products/sapin/preview.jpg"
+image: "products/sapin/preview.jpg"
 description: "Notre miel de Sapin, aux notes résineuses et profondes, évoque les forêts ancestrales. Un miel unique et puissant, qui capture l'essence des massifs forestiers."
 sizes:
   - quantity: 250

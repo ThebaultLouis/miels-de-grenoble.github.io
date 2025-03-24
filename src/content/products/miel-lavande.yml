@@ -1,5 +1,5 @@
 name: "Miel de Lavande"
-image: "/products/lavande/preview.jpg"
+image: "products/lavande/preview.jpg"
 description: "Notre miel de Lavande, aux notes délicates et parfumées, transporte les sens dans les champs provençaux. Un miel délicat et élégant, symbole de la Provence."
 sizes:
   - quantity: 250

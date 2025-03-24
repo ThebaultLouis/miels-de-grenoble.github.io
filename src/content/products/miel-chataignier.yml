@@ -1,5 +1,5 @@
 name: "Miel de Châtaignier"
-image: "/products/chataignier/preview.jpg"
+image: "products/chataignier/preview.jpg"
 description: "Notre miel de Châtaignier, aux notes robustes et légèrement amères, révèle toute la richesse des forêts. Un miel puissant et caractéristique, apprécié des palais exigeants."
 sizes:
   - quantity: 250

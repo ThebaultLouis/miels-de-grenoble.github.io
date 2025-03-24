@@ -1,5 +1,5 @@
 name: "Miel d'Acacia"
-image: "/products/acacia/preview.jpg"
+image: "products/acacia/preview.jpg"
 description: "Notre miel d'Acacia, clair et cristallin, se distingue par sa délicatesse et sa saveur légèrement vanillée. Récolté avec soin dans nos ruchers, il est le symbole de la pureté et de la finesse."
 sizes:
   - quantity: 250

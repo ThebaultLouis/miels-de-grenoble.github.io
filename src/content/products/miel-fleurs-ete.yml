@@ -1,5 +1,5 @@
 name: "Miel de Fleurs d'Été"
-image: "/products/fleurs-ete/preview.jpg"
+image: "products/fleurs-ete/preview.jpg"
 description: "Notre miel de Fleurs d'Été, véritable symphonie de saveurs, capture l'essence des prairies ensoleillées. Un mélange délicat et complexe qui évoque la richesse des journées estivales."
 sizes:
   - quantity: 250

@@ -1,5 +1,5 @@
 name: "Miel de Tilleul"
-image: "/products/tilleul/preview.jpg"
+image: "products/tilleul/preview.jpg"
 description: "Notre miel de Tilleul, aux notes florales délicates, apporte une touche de sérénité et de douceur. Récolté dans nos forêts, il est reconnu pour ses propriétés apaisantes et son goût subtil."
 sizes:
   - quantity: 250

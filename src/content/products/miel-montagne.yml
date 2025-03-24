@@ -1,5 +1,5 @@
 name: "Miel de Montagne"
-image: "/products/montagne/preview.jpg"
+image: "products/montagne/preview.jpg"
 description: "Notre miel de Montagne, aux notes fraîches et complexes, raconte l'histoire des sommets et des pâturages alpins. Un miel riche et authentique, symbole de nos terroirs."
 sizes:
   - quantity: 250

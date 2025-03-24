@@ -1,6 +1,6 @@
 # content/products/miel-cremeux.yml
 name: "Miel Crémeux"
-image: "/products/cremeux/preview.jpg"
+image: "products/cremeux/preview.jpg"
 description: "Notre miel crémeux, à la texture onctueuse et délicate, est un trésor de douceur. Soigneusement récolté et travaillé, il offre une expérience gustative unique et authentique."
 sizes:
   - quantity: 250
